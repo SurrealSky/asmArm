@@ -1,0 +1,2 @@
+D:\work\program\asmArm\Debug\asmArm.dll
+D:\work\program\asmArm\asmArm\Debug\asmArm.dll
